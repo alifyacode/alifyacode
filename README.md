@@ -30,7 +30,7 @@ Hi, I'm [Alifya Putri Aisyka!](https://github.com/alifyacode), A Mobile Develope
 - 🌱 I’m currently learning Flutter, Android Native, And Game Development; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [alifyacode@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=alifyacode@gmail.com);
-- 📝[Resume](https://github.com/alifya-chan)
+- 📝[Resume](https://drive.google.com/file/d/1TYszdHYGT7GV0sQPRgd1cd_P46ceosnF/view?usp=sharing)
 
 **Languages and Tools:**  
 
