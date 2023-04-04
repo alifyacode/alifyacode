@@ -9,9 +9,6 @@
 <a href="https://www.linkedin.com/in/alifya-putri-aisyka-7662401b6/">
   <img align="left" alt="Alifya's Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://#/">
-  <img align="left" alt="Alifya's Reddit" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/reddit.svg" />
-</a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=alifyacode.alifyacode)
 
