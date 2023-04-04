@@ -6,9 +6,6 @@
 <a href="https://www.youtube.com/channel/UC4PJN8jYPzOx0SJD_tXudOg">
   <img align="left" alt="My Youtube" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/1280px-YouTube_full-color_icon_%282017%29.svg.png" />
 </a>
-<a href="https://www.instagram.com/alifya_chan/">
-  <img align="left" alt="My Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" />
-</a>
 <a href="https://www.linkedin.com/in/alifya-putri-aisyka-7662401b6/">
   <img align="left" alt="Alifya's Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
